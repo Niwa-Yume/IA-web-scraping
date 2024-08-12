@@ -28,7 +28,7 @@ Ce script Python extrait automatiquement les événements de la semaine en cours
 2. Installez les dépendances requises :
    ```bash
    pip install scrapegraphai pandas openpyxl python-dotenv 
-  ```
+
 3. Le script extraira les événements et créera un fichier Excel nommé `evenements.xlsx` dans le même répertoire.
 
 ## Configuration
