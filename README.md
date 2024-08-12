@@ -54,4 +54,4 @@ Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une
 
 ## Contact
 
-[Vos informations de contact ou celles du mainteneur du projet]
+[julien.castro@protonmail.com]
