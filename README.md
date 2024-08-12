@@ -1,4 +1,4 @@
-# Extracteur d'événements La Décadanse
+# Extracteur d'événements Avec une IA
 
 Ce script Python extrait automatiquement les événements de la semaine en cours du site web [La Décadanse](https://ladecadanse.darksite.ch/) et les sauvegarde dans un fichier Excel.
 
